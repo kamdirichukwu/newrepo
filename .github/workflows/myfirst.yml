@@ -3,7 +3,7 @@ name: testing workflow
 #to indicate event we use "on:"
 on:
     push:
-        branches: ["master"]
+        branches: ["main"]
     
 jobs:
     testing-testing:
